@@ -1,3 +1,6 @@
+function descargarCV() {
+    window.location.href = "https://drive.google.com/file/d/1KEHK5JM5U8USrnFRcYlkIO-MfgK5lm2L/view?usp=sharing";
+}
 let menuVisible = false;
 //Función que oculta o muestra el menu
 function mostrarOcultarMenu(){
