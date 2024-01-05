@@ -288,7 +288,7 @@ html{
 }
 @keyframes springboot {
     0%{width: 0%;}
-    100%{width: 90%;}
+    100%{width: 80%;}
 }
 
 .skills .skill .phyton{
@@ -316,6 +316,15 @@ html{
 @keyframes excel {
     0%{width: 0%;}
     100%{width: 80%;}
+}
+
+.skills .skill .powerbi{
+    width: 0%;
+    animation: 2s powerbi forwards;
+}
+@keyframes powerbi {
+    0%{width: 0%;}
+    100%{width: 90%;}
 }
 
 .skills .skill .comunicacion{
